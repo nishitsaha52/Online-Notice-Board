@@ -49,7 +49,7 @@ Welcome to the Online Notice Board System! This is an ideal project for those ne
 
 ## 🖼️ Screenshot
 
-![Online Notice Board System](path_to_image.jpg)
+![Online Notice Board System](https://github.com/nishitsaha52/Online-Notice-Board/blob/main/online-notice-board-system.png))
 
 ---
 
